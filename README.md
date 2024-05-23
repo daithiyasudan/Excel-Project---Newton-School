@@ -33,8 +33,8 @@ This project involves analyzing data from Zomato to uncover insights related to 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/daithiyasudan/Newton-School-Projects/Excel_Project/Zomato_Data.xlsx
-    cd Excel_Project
+    git clone https://github.com/daithiyasudan/Excel-Project---Newton-School.git
+    cd Excel-Project---Newton-School
     ```
 
 2. **Open Excel**:
@@ -43,8 +43,8 @@ This project involves analyzing data from Zomato to uncover insights related to 
 ## Usage
 
 1. **Load Data into Excel**:
-    - Ensure the Zomato dataset (`zomato_data.csv`) is located in the same directory as the Excel file.
-    - Open `Zomato_Data.xlsx` and follow the instructions to import the data into Excel.
+    - Convert the `Zomato_Data.xlsx` into `Zomato_Data.csv' and save it in the same location as the Excel file.
+    - Open `Zomato_Data.csv` and follow the instructions to import the data into Excel.
 
 2. **Data Cleaning**:
     - Use the provided Excel sheets and formulas to clean and preprocess the data.
